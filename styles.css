@@ -1,0 +1,13 @@
+*, html {
+    background-color: #3b3b3b;
+}
+
+:root {
+    --font-type: inter-sans serif;
+    --font-color: red;
+}
+
+h1 {
+    color: var(--font-color);
+    font-family: var(--font-type);
+}
