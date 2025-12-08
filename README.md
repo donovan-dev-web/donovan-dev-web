@@ -2,6 +2,8 @@
 <h3 align="center">Développeur Web en formation | Web & Mobile Developer</h3>
 
 ---
+![GitHub Card](https://githubcard.com/donovan-dev-web.svg)
+---
 
 ## 🌍 À propos de moi | About me
 
@@ -37,14 +39,6 @@ Git, GitHub, Linux, Figma, Firebase, MongoDB, NPM, VS Code, Responsive Design, S
 
 ---
 
-## 📈 Statistiques GitHub | GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donovan-dev-web&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donovan-dev-web&layout=compact&theme=transparent" height="150" />
-</p>
-
----
 
 ## 🔗 Me retrouver | Connect with me
 
