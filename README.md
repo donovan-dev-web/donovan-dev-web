@@ -2,7 +2,7 @@
 <h3 align="center">Développeur Web en formation | Web & Mobile Developer</h3>
 
 ---
-![GitHub Card]([https://githubcard.com/donovan-dev-web.svg](https://githubcard.com/donovan-dev-web.svg?d=pkUDtZv6))
+![GitHub Card](https://githubcard.com/donovan-dev-web.svg?d=pkUDtZv6)
 ---
 
 ## 🌍 À propos de moi | About me
