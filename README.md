@@ -8,7 +8,7 @@
 ## 🌍 À propos de moi | About me
 
 🇫🇷  
-Autodidacte et infographiste 3D de formation, j’ai obtenu 2 ans d’expérience en développement web.  
+Autodidacte et infographiste 3D de formation, j’ai obtenu 3 ans d’expérience en développement web.  
 Actuellement, je me forme au métier de **Développeur Informatique – Spécialité Web**, dans l’objectif de décrocher un emploi dans le domaine.  
 Curieux, passionné et toujours prêt à apprendre de nouvelles technos ! 🚀
 
@@ -45,10 +45,10 @@ Git, GitHub, Linux, Figma, Firebase, MongoDB, NPM, VS Code, Responsive Design, S
 <div align="center">
 
 🌐 **Portfolio**  
-👉 https://donovan-dev3d.vercel.app  
+👉 https://donovan-dev-web.vercel.app  
 
 💼 **LinkedIn**  
-👉 https://www.linkedin.com/in/donovan-chartrain-63686a138  
+👉 https://www.linkedin.com/in/donovan-chartrain-dev-web  
 
 </div>
 
